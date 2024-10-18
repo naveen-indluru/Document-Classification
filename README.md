@@ -25,4 +25,4 @@ This project focuses on performing **text classification** using both the **Mult
 
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone [<repo_url>](https://github.com/naveen-indluru/Document-Classification.git)
