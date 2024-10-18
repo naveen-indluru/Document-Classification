@@ -20,6 +20,31 @@ This project focuses on performing **text classification** using both the **Mult
   - scikit-learn (sklearn)
   - matplotlib
   - tqdm
+## Project Tasks
+
+1. **Text Classification with Multinomial Naive Bayes**:
+   - Use `sklearn`'s Multinomial Naive Bayes to perform classification.
+   
+2. **Custom Naive Bayes Implementation**:
+   - Implement the Naive Bayes algorithm from scratch.
+   
+3. **Model Comparison**:
+   - Compare the accuracy and performance metrics (precision, recall, confusion matrix) between the `sklearn` implementation and the custom Naive Bayes model.
+
+## Features
+
+- **Data Preparation**:
+  - Tokenization, stopword removal, and vocabulary building.
+  
+- **Naive Bayes Models**:
+  - Comparison of Multinomial Naive Bayes (`sklearn`) and custom Naive Bayes implementation.
+  
+- **Performance Evaluation**:
+  - Detailed performance evaluation using confusion matrix and classification reports.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests for improvements.
 
 ## Installation
 
